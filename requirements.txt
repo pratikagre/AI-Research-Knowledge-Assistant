@@ -9,3 +9,4 @@ chromadb==1.5.9
 google-genai==2.6.0
 tensorflow==2.21.0
 numpy==1.26.0
+python-multipart==0.0.26
